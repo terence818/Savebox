@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SaveBox</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="auth_failed">Invalid password or email</string>
+    <string name="username">Username</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="phone">Phone</string>
+    <string name="phone_no">Phone number</string>
+    <string name="confirm_password_">Confirm Password</string>
+    <string name="student">Student</string>
+    <string name="worker">Worker</string>
+    <string name="about_us_desc">Why Choose Us?</string>
+    <string name="log_out_desc">Do you want to logout?</string>
+    <string name="about_us">About Us</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
